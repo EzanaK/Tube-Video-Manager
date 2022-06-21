@@ -1,2 +1,4 @@
-# Tube-Video-Manager
-Implement a video manager. You can add videos, create playlists, generate HTML for playlists, etc.
+# Skills Practiced
+- Arrays/ArrayLists
+- Exceptions
+- For loops
